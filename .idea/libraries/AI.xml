@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="AI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AI/3119410039_HoMinhCanh_AKT8PUZZLE.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AI/3119410039_HoMinhCanh_FFCG.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AI/3119410039_HoMinhCanh_BaBaiToanThamLAm.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AI/3119410039_HoMinhCanh_HanhTrinhNguoiBanHang.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AI/3119410039_HoMinhCanh_DongNuoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AI/3119410039_HoMinhCanh_ATSEARCH.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AI/3119410039_HoMinhCanh_ASTART.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

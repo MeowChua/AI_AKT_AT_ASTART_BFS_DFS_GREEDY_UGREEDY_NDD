@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/AI/3119410039_HoMinhCanh_AKT8PUZZLE" isTestSource="false" packagePrefix="AKT_8PUZZLE" />
+      <sourceFolder url="file://$MODULE_DIR$/AI/3119410039_HoMinhCanh_ASTART" isTestSource="false" packagePrefix="ASTART" />
+      <sourceFolder url="file://$MODULE_DIR$/AI/3119410039_HoMinhCanh_ATSEARCH" isTestSource="false" packagePrefix="ATSEARCH" />
+      <sourceFolder url="file://$MODULE_DIR$/AI/3119410039_HoMinhCanh_BaBaiToanThamLAm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AI/3119410039_HoMinhCanh_DongNuoc" isTestSource="false" packagePrefix="DONG_NUOC" />
+      <sourceFolder url="file://$MODULE_DIR$/AI/3119410039_HoMinhCanh_FFCG" isTestSource="false" packagePrefix="FFCG_2" />
+      <sourceFolder url="file://$MODULE_DIR$/AI/3119410039_HoMinhCanh_HanhTrinhNguoiBanHang" isTestSource="false" packagePrefix="NDD" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
